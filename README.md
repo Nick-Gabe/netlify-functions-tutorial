@@ -7,4 +7,4 @@ If you want to test the functions, these are the URLS:
 |file|live api|language|
 |---|---|---|
 |[helloworld.js](./functions/helloworld.js)|[api/helloworld](https://nick-functions.netlify.app/api/helloworld)|Javascript|
-|[helloworld.ts](./functions/helloworld.ts)|[api/helloworld2](https://nick-functions.netlify.app/api/helloworld2)|Typescript|
+|[helloworld2.ts](./functions/helloworld.ts)|[api/helloworld2](https://nick-functions.netlify.app/api/helloworld2)|Typescript|
